@@ -1,0 +1,668 @@
+BoM Name,Level,Product Reference,Product Name,Quantity,Unit of Measure,BoM Reference
+"LulzBot TAZ 3D Printer, Workhorse Edition, Boxed for Retail, EU",,KT-PR0051EU,"LulzBot TAZ 3D Printer, Workhorse Edition, Boxed for Retail, EU",1,PCE,T9006 7/25/2019
+,> ,AS-PK0029,[AS-PK0029] Universal Tool Kit,1,PCE,T9006 7/25/2019
+,> > ,AS-PK0010,[AS-PK0010] 90 mm wiper pad set,1,"PCE, 90mm, 5 pack",
+,> > > ,AS-PR0023,[AS-PR0023] 90mm Cut wiper pad,5,"PCE, 90mm",
+,> > > > ,HD-MS0550,"[HD-MS0550] Synthetic Felt Plain Backing, 1"" Wide, 1/4"" Thick - 50 ft",600,inch(es),
+,> > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0529,"Reel, 5lb",
+,> > > ,SH-PG0002,"[SH-PG0002] 3 x 4"" 2 Mil Reclosable Polypropylene Bags",1,PCE,
+,> > ,AS-PK0027,[AS-PK0027] Clam knife with label,1,PCE,
+,> > > ,DC-LB0062,"[DC-LB0062] Clam Knife Sheath Sticker - Caution Sharp Blade! (1""x2.5"" Rectangle) ",1,PCE,
+,> > > ,TL-HD0359,"[TL-HD0359] 7 1/2"" Nylon Handle Clam Knife - Laser Etched with ""Sharp"" Icon",1,PCE,
+,> > > > ,SR-MN0010,"[SR-MN0010] Laser Etching Service for Clam Knive, TL-HD0009 ",1,PCE,
+,> > > > ,TL-HD0009,"[TL-HD0009] 7 1/2"" Nylon Handle Clam Knife",1,PCE,
+,> > ,AS-PK0030,"[AS-PK0030] Tool Sub Kit, Universal ",1,PCE,
+,> > > ,TL-HD0008,"[TL-HD0008] Stainless Steel Pocket Rule Semiflexible, Metric Grads, 150 mm Length",1,PCE,
+,> > > ,TL-HD0046,[TL-HD0046] PRO DENTAL PICK (PROBE) (DP-19) M S V - in a protective sleeve or with a safety cap,1,PCE,
+,> > > ,TL-HD0049,"[TL-HD0049] 6"" Deluxe Bent Stainless Steel Tweezers with Serrated Teeth and Safety Cap",1,PCE,
+,> > ,TL-CS0117,"[TL-CS0117] Elmer's Glue Sticks, .77oz",1,PCE,
+,> > ,TL-CS0255,"[TL-CS0255] Scotch Brite Maroon Pad, 2""X 3""",2,PCE,
+,> > > ,TL-MS0568,"[TL-MS0568] Abrasive Roll, 2"" W x 30 ft. L Roll - Maroon",76.2,mm,
+,> > ,TL-HD0048,[TL-HD0048] Elmer's X-Acto No. 1 Precision Knife - Aluminum,1,PCE,
+,> > ,TL-HD0050,"[TL-HD0050] 6"" Long Nose Pliers",1,PCE,
+,> > ,TL-HD0468,[TL-HD0468] 7 pc Long Arm Ball Hex Key Wrench Set (Metric) - Red,1,PCE,
+,> > ,TL-MS0572,[TL-MS0572] Tool bag / Travel Organizer Case,1,PCE,
+,> ,AS-PK0036,[AS-PK0036] Scotch Brite Wiper Pad Set,1,"pkg, 5",T9006 7/25/2019
+,> > ,AS-PR0153,"[AS-PR0153] Treated Wiper Pad, 25 x 90mm, Standard Mount",5,PCE,
+,> > > ,HD-MS0531,"[HD-MS0531] Scotch-Brite, Light Cleansing Pad, 7445B - 9 x 6"", White",1,PCE,
+,> > ,SH-PG0005,"[SH-PG0005] 3 x 5"" 2 Mil Reclosable Polypropylene Bags",1,PCE,
+,> ,AS-PK0040,"[AS-PK0040] Documentation Bag, Workhorse",1,PCE,T9006 7/25/2019
+,> > ,DC-LB0187,[DC-LB0187] Label - TAZ Filament Sample Bags,1,PCE,
+,> > ,SH-PG0030,[SH-PG0030] 8X10 2MIL RECLOSABLE BAG 1M/CT,1,PCE,
+,> > ,SH-PG0084,"[SH-PG0084] 6 x 10"" 6 Mil Reclosable Bags",1,PCE,
+,> > ,RM-PL0134,"[RM-PL0134] PolyLite PLA LulzBot Green,  2.85mm 3kg Reel – Polymaker",0.01,"Reel, 3kg",
+,> ,AS-PK0041,"[AS-PK0041] Quick Start Guide Pack, Workhorse",1,PCE,T9006 7/25/2019
+,> > ,DC-LB0095,"[DC-LB0095] LulzBot Logo Sticker, 3 - Inch",1,PCE,
+,> > ,DC-MN0020,"[DC-MN0020] Quick Start Quide, TAZ Workhorse",1,PCE,
+,> > ,DC-MS0076,[DC-MS0076] Cura Update Insert Card 02,1,PCE,
+,> > ,SH-PG0083,"[SH-PG0083] 9 x 12"" 8 Mil Reclosable Bags",1,PCE,
+,> ,AS-PR0168,"[AS-PR0168] TAZ Workhorse, Calibrated",1,PCE,T9006 7/25/2019
+,> > ,PP-MP0082,"[PP-MP0082] Bed Leveling Washer, 303 SST",4,PCE,T8826 7/18/2019
+,> > ,HD-MS0058,"[HD-MS0058] Wire Tie, 8"" Black, pk 1000",1,PCE,T8826 7/18/2019
+,> > ,HD-BT0082,"[HD-BT0082] Metric 18-8 SS Flat Head Socket Cap Screw M3 Size, 16mm Length, .50mm Pitch",4,PCE,T8826 7/18/2019
+,> > ,HD-MS0287,"[HD-MS0287] Metric 18-8 Stainless Steel Unthreaded Spacer, 8mm OD, 10mm Length, M3 Screw Size",4,PCE,T8826 7/18/2019
+,> > ,HD-BT0157,"[HD-BT0157] Black-Oxide Class 12.9 Socket Head Cap Screw, Alloy Steel, M3 Thread, 8mm Length, 0.50mm Pitch",3,PCE,T8826 7/18/2019
+,> > ,EL-CA0063,[EL-CA0063] 6ft Tripp Lite - USB 2.0 A/B Gold Device Cable Ferrite Chokes A Male B Male,1,PCE,T8826 7/18/2019
+,> > ,EL-CA0030,"[EL-CA0030] North American - 6ft 18AWG Power Cord Cable w/ 3 Conductor PC Power Connector Socket (C13/5-15P) - Black, 5279",1,PCE,T8826 7/18/2019
+,> > ,PP-IS0118,"[PP-IS0118] Extruder Cap with Inserts, Workhorse",1,PCE,T8826 7/18/2019
+,> > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",2,PCE,T8835 printed plaque 7/22/2019
+,> > > ,PP-GP0445,"[PP-GP0445] Extruder Cap, Black, Workhorse",1,PCE,T8835 printed plaque 7/22/2019
+,> > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0198,"Reel, 5lb",
+,> > > ,PP-GP0466,"[PP-GP0466] LulzBot Plaque, Printed, Workhorse",1,PCE,T8835 printed plaque 7/22/2019
+,> > > > ,RM-PL0118,"[RM-PL0118] PolyLite PLA LulzBot Green,  2.85mm 1kg Reel - Polymaker",0.01,"Reel, 1kg",
+,> > > > ,RM-PL0121,"[RM-PL0121] PolyLite PLA True Black,  2.85mm 1kg Reel - Polymaker",0.01,"Reel, 1kg",
+,> > > ,HD-BT0137,"[HD-BT0137] M3 x 8 Bolt, BHCS, Black-Oxide",2,PCE,T8835 printed plaque 7/22/2019
+,> > ,AS-PR0157,"[AS-PR0157] Feed Tube Assembly, Workhorse",1,PCE,T8826 7/18/2019
+,> > > ,HD-MS0058,"[HD-MS0058] Wire Tie, 8"" Black, pk 1000",1,PCE,
+,> > > ,HD-TB0007,"[HD-TB0007] Feed Tube, 0.187 ID X .250 OD NAT PTFE Tube",80,cm,
+,> > > ,PP-GP0219,[PP-GP0219] Feed tube spinner v3.0,1,PCE,
+,> > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0024,"Reel, 5lb",
+,> > ,AS-HB0006,"[AS-HB0006] TAZ Etched Modular Print Bed Heater, no felt",1,PCE,T8826 7/18/2019
+,> > ,AS-HB0003,[AS-HB0003] TAZ Glass/PEI Print Surface,1,PCE,T8826 7/18/2019
+,> > > ,HD-MS0349,"[HD-MS0349] PEI (10mil) with 3M 468 adhesive attached, heat-treated, TAZ",1,PCE,
+,> > > > ,HD-MS0310,"[HD-MS0310] TAPE3M468MP.005X26.000X60YD .005"" THK 3M ADHESIVE 468MP 26"" WIDE X 60 YARDS",1024,cm²,
+,> > > > ,HD-MS0311,[HD-MS0311] SULT1000NA.010X26.000X90FT - 0.010 X 26.000 WIDE X 90 FT NAT ULTEM 1000 FILM,1024,cm²,
+,> > > ,HD-MS0002,"[HD-MS0002] Borosilicate Glass Bed 300mm x 300mm x 1/8""",1,PCE,
+,> > ,AS-PR0167,"[AS-PR0167] TAZ Workhorse, Final Assembly",1,PCE,T8826 7/18/2019
+,> > > ,AS-PR0163,"[AS-PR0163] Y-Axis Assembly, Workhorse",1,PCE,T8707 7/15/2019
+,> > > > ,EL-MT0029,"[EL-MT0029] NEMA 17 Stepper Motor, Moons'  -  NOT INCLUDING wire harness",1,PCE,
+,> > > > ,HD-BT0048,"[HD-BT0048] Metric Class 12.9 Socket Head Cap Screw Alloy Steel, M5 Thread, 10mm Length, 0.80mm Pitch",1,PCE,
+,> > > > ,HD-BT0073,"[HD-BT0073] Class 10.9 Stl Button Head Socket Cap Screw M5 Size, 10 Mm Length, .8 Mm Pitch ",17,PCE,
+,> > > > ,HD-BT0104,"[HD-BT0104] M3 x 8 Bolt, BHCS, SST ",2,PCE,
+,> > > > ,HD-BT0128,"[HD-BT0128] M3 x 6 Bolt, FHCS Black-Oxide",4,PCE,
+,> > > > ,HD-BT0148,"[HD-BT0148] Class 10.9 Steel Button-Head Socket Cap Screw, M3 Size, 10 mm Length, .5 mm Pitch",41,PCE,
+,> > > > ,HD-EX0062,"[HD-EX0062] T-Slot Aluminum Frame TPW, Extrusion 20mm x 20mm x 500mm,Tapped M5x0.8 on Both Ends, Black (Ends free of anodize) ",2,PCE,
+,> > > > ,HD-MS0033,"[HD-MS0033] GT2, 16 Teeth, timing pulley, AL",1,PCE,
+,> > > > ,HD-MS0411,[HD-MS0411] 625-2RS Premium Two Side Rubber Sealed Bearing ABEC3,1,PCE,
+,> > > > ,HD-NT0053,"[HD-NT0053] T-Slot Slide in T-nuts for Aluminum Frame, M5 ",8,PCE,
+,> > > > ,HD-RD0018,"[HD-RD0018] 10mm Smooth Rod, Stainless Steel, 500mm",2,PCE,
+,> > > > ,HD-WA0035,"[HD-WA0035] Metric 18-8 Stainless Steel External Serrated Lock Washer, M3 Screw Size, 6mm OD, 0.4mm min Thick",2,PCE,
+,> > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",39,PCE,
+,> > > > ,AS-PR0153,"[AS-PR0153] Treated Wiper Pad, 25 x 90mm, Standard Mount",1,PCE,
+,> > > > > ,HD-MS0531,"[HD-MS0531] Scotch-Brite, Light Cleansing Pad, 7445B - 9 x 6"", White",1,PCE,
+,> > > > ,HD-WA0040,"[HD-WA0040] Black-Oxide 18-8 Stainless Steel Washer, M5 Size, 5.3mm ID, 10.0mm OD",17,PCE,
+,> > > > ,PP-MP0216,"[PP-MP0216] Bed Plate, 6061",1,PCE,
+,> > > > ,PP-MP0227,[PP-MP0227] XY Calibration Cube,1,PCE,
+,> > > > ,PP-GP0238,[PP-GP0238] Flexy Bed Foot v0.1,4,PCE,
+,> > > > > ,RM-TE0002,"[RM-TE0002] Midnight NinjaFlex™ TPE Filament, 3mm, 0.75kg Fenner Drives",0.01,"Reel, 0.75kg",
+,> > > > ,PP-GP0369,[PP-GP0369] Y Belt Mount,1,PCE,
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0064,"Reel, 5lb",
+,> > > > ,PP-GP0381,[PP-GP0381] Wiper Mount,1,PCE,
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0035,"Reel, 5lb",
+,> > > > ,PP-GP0391,[PP-GP0391] Y Cable Cover,1,PCE,
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0112,"Reel, 5lb",
+,> > > > ,PP-GP0395,[PP-GP0395] Bed Mount Table,4,PCE,
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0033,"Reel, 5lb",
+,> > > > ,PP-GP0396,[PP-GP0396] Bed Corner,4,PCE,
+,> > > > > ,RM-TE0002,"[RM-TE0002] Midnight NinjaFlex™ TPE Filament, 3mm, 0.75kg Fenner Drives",0.01,"Reel, 0.75kg",
+,> > > > ,PP-GP0446,[PP-GP0446] Heater bed stand off,1,PCE,
+,> > > > > ,RM-TE0002,"[RM-TE0002] Midnight NinjaFlex™ TPE Filament, 3mm, 0.75kg Fenner Drives",0.01,"Reel, 0.75kg",
+,> > > > ,PP-GP0449,"[PP-GP0449] Auxiliary Bed Mount Cover, Black",1,PCE,
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0049,"Reel, 5lb",
+,> > > > ,AS-PR0121,[AS-PR0121] Y-Bearing Holder Assembly,4,PCE,
+,> > > > > ,HD-BU0030,[HD-BU0030] DryLin® R - Solid Polymer Bearing RJMP-01-10mm ,1,PCE,
+,> > > > > ,PP-GP0393,[PP-GP0393] 10mm Retaining Ring,1,PCE,
+,> > > > > > ,RM-AB0104,"[RM-AB0104] Chroma Strand ABS Filament, Lulzbot Green 2.85mm, 5 lb reel",0.0001,"Reel, 5lb",
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.006,"Reel, 5lb",
+,> > > > ,AS-PR0122,[AS-PR0122] Y-Idler Mount Assembly,1,PCE,
+,> > > > > ,HD-BT0148,"[HD-BT0148] Class 10.9 Steel Button-Head Socket Cap Screw, M3 Size, 10 mm Length, .5 mm Pitch",4,PCE,
+,> > > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",4,PCE,
+,> > > > > ,PP-FP0151,[PP-FP0151] Y Endplate,1,PCE,
+,> > > > > ,PP-IS0091,[PP-IS0091] Y-Idler Housing with Inserts,1,PCE,
+,> > > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",4,PCE,
+,> > > > > > ,PP-GP0363,[PP-GP0363] Y Idler Housing,1,PCE,
+,> > > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0097,"Reel, 5lb",
+,> > > > ,AS-PR0161,"[AS-PR0161] Y Motor Mount Assembly, Workhorse",1,PCE,
+,> > > > > ,EL-HR0182,"[EL-HR0182] TAZ Workhorse, Y Motor Ground Extension",1,PCE,
+,> > > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,3,PCE,update 6/20/19 T7984
+,> > > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,1,PCE,update 6/20/19 T7984
+,> > > > > > ,EL-MS0142,[EL-MS0142] Conn Recept Faston 22-26AWG .110 - Reel of 3K,2,PCE,update 6/20/19 T7984
+,> > > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,34,cm,update 6/20/19 T7984
+,> > > > > > ,PC-CN0003,[PC-CN0003] Molex - CONN HOUSING 3POS .100 W/LATCH,1,PCE,update 6/20/19 T7984
+,> > > > > ,PP-IS0115,"[PP-IS0115] Y Motor Mount with Inserts, TAZ",1,PCE,
+,> > > > > > ,PP-GP0439,"[PP-GP0439] Y Motor Mount, Black, Workhorse",1,PCE,
+,> > > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0176,"Reel, 5lb",
+,> > > > > > ,PP-MP0066,"[PP-MP0066] Metric Brass Heat-Set Tapered Insert, M2-.4 Internal Thread, 2.9MM Length",2,PCE,
+,> > > > > ,EL-SW0022,[EL-SW0022] SWITCH BASIC SPDT 3A .110QC 125V,1,PCE,
+,> > > > > ,HD-BT0107,"[HD-BT0107] Metric Class 12.9 Socket Head Cap Screw Alloy Steel, Black, M2 Thread, 10mm Length, 0.4mm Pitch",2,PCE,
+,> > > > > ,HD-BT0148,"[HD-BT0148] Class 10.9 Steel Button-Head Socket Cap Screw, M3 Size, 10 mm Length, .5 mm Pitch",4,PCE,
+,> > > > > ,HD-MS0058,"[HD-MS0058] Wire Tie, 8"" Black, pk 1000",1,PCE,
+,> > > > > ,HD-NT0001,"[HD-NT0001] Metric Zinc-Plated Steel Nylon-Insert Locknut, Class 8, M3 Screw sz, .5MM pitch, 5.5MM W, 4MM H",4,PCE,
+,> > > > > ,HD-WA0012,"[HD-WA0012] Steel Flat Washer, DIN 125 zinc-plated class 4,M2 screw sz, 5mm OD, .25mm-.35mm thick",2,PCE,
+,> > > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",4,PCE,
+,> > > > > ,PP-FP0151,[PP-FP0151] Y Endplate,1,PCE,
+,> > > > ,AS-PR0124,[AS-PR0124] Y Idler Assembly,1,PCE,
+,> > > > > ,HD-BL0028,[HD-BL0028] 956-2P-06 POWERHOUSE BELT,1,PCE,
+,> > > > > ,HD-BT0151,"[HD-BT0151] M5 x 20mm SCHS, Black Oxide",1,PCE,
+,> > > > > ,HD-MS0411,[HD-MS0411] 625-2RS Premium Two Side Rubber Sealed Bearing ABEC3,2,PCE,
+,> > > > > ,PP-MP0225,[PP-MP0225] YZ Idler,1,PCE,
+,> > > > ,PP-IS0088,[PP-IS0088] Y-Belt Clamp with Inserts,1,PCE,
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",2,PCE,
+,> > > > > ,PP-GP0370,[PP-GP0370] Y Belt Clamp,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0013,"Reel, 5lb",
+,> > > > ,PP-IS0089,[PP-IS0089] Y-Corner Left with Inserts,2,PCE,
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",1,PCE,
+,> > > > > ,HD-MS0158,"[HD-MS0158] Metric Brass Heat-Set Insert For Plastics Tapered, M5-.8 Internal Thread, 6.7mm Length",1,PCE,
+,> > > > > ,PP-GP0365,[PP-GP0365] Y Corner Left,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0077,"Reel, 5lb",
+,> > > > ,PP-IS0090,[PP-IS0090] Y-Corner Right with Inserts,2,PCE,
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",1,PCE,
+,> > > > > ,PP-GP0364,[PP-GP0364] Y Corner Right,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0079,"Reel, 5lb",
+,> > > > > ,HD-MS0158,"[HD-MS0158] Metric Brass Heat-Set Insert For Plastics Tapered, M5-.8 Internal Thread, 6.7mm Length",1,PCE,
+,> > > > ,EL-HR0146,"[EL-HR0146] Bed Extension Harness, Assembled",1,PCE,
+,> > > > > ,PC-CN0050,[PC-CN0050] CONN HOUSING MALE 3POS .100,1,PCE,
+,> > > > > ,EL-WR0119,[EL-WR0119] 24AWG Stranded Wire – Green,22,cm,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,5.5,cm,
+,> > > > > ,EL-MS0416,"[EL-MS0416] Solder Sleeve B155-9002, Clear 0.105"" one step",1,PCE,
+,> > > > > ,EL-MS0329,"[EL-MS0329] TVS Diode – 1500W, 5V Reverse Standoff, 6V Breakdown, 9.4V Clamp, 200A Surge",1,PCE,
+,> > > > > ,EL-MS0247,"[EL-MS0247] Heat Shrink Tubing – 0.19-0.09 – Black, 100'",85,mm,
+,> > > > > ,EL-MS0205,[EL-MS0205] Molex-CONN TERM MALE 22-24AWG TIN - Reels of 20K,3,PCE,
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,3,PCE,
+,> > > ,AS-PR0162,"[AS-PR0162] Control Box Assembly, Workhorse",1,PCE,T8707 7/15/2019
+,> > > > ,AS-PR0169,[AS-PR0169] 5A Fuse Mount Subassembly,1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0235,[EL-MS0235] Surface Mount Fuses 125V V/FA 5A NANO2,5,PCE,
+,> > > > > ,PP-GP0463,"[PP-GP0463] 5A Fuse Sleeve, LulzBot Green, Flexible",1,PCE,
+,> > > > > > ,RM-TE0027,"[RM-TE0027] LulzBot Green NinjaFlex TPE Filament, 3mm. 0.75kg Fenner Drives",0.01,"Reel, 0.75kg",
+,> > > > > ,PP-GP0464,"[PP-GP0464] 5A Fuse Mount, Black",1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0034,"Reel, 5lb",
+,> > > > ,EL-HR0147,"[EL-HR0147] LCD-USB Harness, Assembled",2,PCE,T8023 7/16/2019
+,> > > > > ,PC-CN0010,"[PC-CN0010] Conn Socket IDC, 10POS DUAL 30AU, ",2,PCE,
+,> > > > > ,EL-CA0078,"[EL-CA0078] Flat Cables .050"" 10C 10 COLOR 28AWG STRANDED",200,mm,
+,> > > > ,EL-HR0152,"[EL-HR0152] CB PSU to Ground Green Harness, Assembled",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0246,[EL-MS0246] Conn Ring 16-22 AWG #4 Red PIDG - Reel 5000,1,PCE,
+,> > > > > ,EL-WR0124,[EL-WR0124] 16AWG Stranded – Green w/ yellow stripe,100,mm,
+,> > > > > ,EL-MS0497,[EL-MS0497] CONN SPADE TERM 16-22AWG #6 RED,1,PCE,
+,> > > > ,EL-HR0154,"[EL-HR0154] DC Power Harness, Assembled",1,PCE,T8023 7/16/2019
+,,,,,,
+,> > > > > ,EL-MS0361,[EL-MS0361] 16 AWG 6.0mm Pin Length Power Phase Black Single Wire - Insulated Ferrule ,6,PCE,
+,> > > > > ,EL-MS0497,[EL-MS0497] CONN SPADE TERM 16-22AWG #6 RED,6,PCE,
+,> > > > > ,EL-WR0106,[EL-WR0106] 16AWG Stranded – Red,165,cm,
+,> > > > > ,EL-WR0121,[EL-WR0121] 16AWG Stranded Wire – Black,165,cm,
+,> > > > > ,PC-CN0036,[PC-CN0036] Term Block Plug 6POS STR 5.08mm,1,PCE,
+,> > > > ,EL-HR0167,[EL-HR0167] Plug to ground green,1,PCE,T8023 7/16/2019
+,,,,,,
+,> > > > > ,EL-MS0143,[EL-MS0143] Conn Fast Receptacle14-16 AWG .250 - REEL of 2200 Units,1,PCE,
+,> > > > > ,EL-MS0246,[EL-MS0246] Conn Ring 16-22 AWG #4 Red PIDG - Reel 5000,1,PCE,
+,> > > > > ,EL-WR0124,[EL-WR0124] 16AWG Stranded – Green w/ yellow stripe,120,mm,
+,> > > > ,EL-HR0173,"[EL-HR0173] TAZ Workhorse, CB X Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,13,PCE,
+,> > > > > ,EL-MS0062,[EL-MS0062] MOLEX-CONN HOUSING 4POS .100 W/LATCH,1,PCE,
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,2,PCE,
+,> > > > > ,EL-MS0329,"[EL-MS0329] TVS Diode – 1500W, 5V Reverse Standoff, 6V Breakdown, 9.4V Clamp, 200A Surge",1,PCE,
+,> > > > > ,EL-MS0416,"[EL-MS0416] Solder Sleeve B155-9002, Clear 0.105"" one step",1,PCE,
+,> > > > > ,EL-WR0099,[EL-WR0099] Shielded 22AWG UL2464 4 COND,18,cm,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,12,cm,
+,> > > > > ,EL-WR0119,[EL-WR0119] 24AWG Stranded Wire – Green,49,cm,
+,> > > > > ,PC-CN0003,[PC-CN0003] Molex - CONN HOUSING 3POS .100 W/LATCH,1,PCE,
+,> > > > > ,PC-CN0060,[PC-CN0060] Female 10 pin Molex Connector Housing ,1,PCE,
+,> > > > ,EL-HR0174,"[EL-HR0174] TAZ Workhorse, Bed Power Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0008,"[EL-MS0008] Anderson-Heavy Duty Power Connectors HOUSING ONLY, BLACK-BULK POWERPOLE 15/45",4,PCE,
+,> > > > > ,EL-MS0010,[EL-MS0010] Heavy Duty Power Connectors POWERPOLE 15A CONT,4,PCE,
+,> > > > > ,EL-WR0135,[EL-WR0135] WIRE MTW 16AWG PPL 500ft SPOOL 600V 26-STRAND BARE COPPER - Purple,90,cm,
+,> > > > > ,EL-WR0157,"[EL-WR0157] SELF-WRAPPING BRAIDED SLEEVING - 1/4"" - BLACK - 200 FT SPOOL ",430,mm,
+,> > > > > ,HD-TB0075,"[HD-TB0075] Heat-Shrink Tubing, 25 Feet Long, 0.38"" ID Before Shrinking",0.01,"ft, 25",
+,> > > > ,EL-HR0175,"[EL-HR0175] TAZ Workhorse,  CB Extruder Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,22,PCE,
+,> > > > > ,EL-MS0062,[EL-MS0062] MOLEX-CONN HOUSING 4POS .100 W/LATCH,1,PCE,
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,2,PCE,
+,> > > > > ,EL-MS0259,"[EL-MS0259] Heat Shrink DL WL Q53X 3/4""",4.25,cm,
+,> > > > > ,EL-MS0342,[EL-MS0342] Ferrite Tubular Bead 7.87MM RoHS Status,1,PCE,
+,> > > > > ,EL-MS0362,[EL-MS0362] 24 AWG 6.0mm Pin Length Single Wire - Insulated Ferrule,2,PCE,
+,> > > > > ,EL-WR0099,[EL-WR0099] Shielded 22AWG UL2464 4 COND,17.5,cm,
+,> > > > > ,EL-WR0103,[EL-WR0103] 24AWG Stranded – Red,40,cm,
+,> > > > > ,EL-WR0104,[EL-WR0104] 24AWG Stranded – Orange,40,cm,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,20,cm,
+,> > > > > ,EL-WR0107,[EL-WR0107] 24AWG Stranded – White,20,cm,
+,> > > > > ,EL-WR0109,[EL-WR0109] 24AWG Stranded – Yellow,20,cm,
+,> > > > > ,EL-WR0111,[EL-WR0111] 24AWG Stranded – Blue,20,cm,
+,> > > > > ,EL-WR0119,[EL-WR0119] 24AWG Stranded Wire – Green,20,cm,
+,> > > > > ,PC-CN0001,[PC-CN0001]  Molex-Conn Housing 2POS .100 W/Latch,2,PCE,
+,> > > > > ,PC-CN0032,[PC-CN0032] Term Block Plug 2POS STR 5.08MM,2,PCE,
+,> > > > > ,PC-CN0058,[PC-CN0058] Female 16 pin Molex connector housing,1,PCE,
+,> > > > ,EL-HR0176,"[EL-HR0176] TAZ Workhorse, CB Dual Extruder Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,6,PCE,
+,> > > > > ,EL-MS0062,[EL-MS0062] MOLEX-CONN HOUSING 4POS .100 W/LATCH,1,PCE,
+,> > > > > ,EL-MS0124,[EL-MS0124] 20-24 AWG Tin Sockets for Receptacle - 4K Reel ,9,PCE,
+,> > > > > ,EL-MS0133,"[EL-MS0133] CONN, RCPT, 14 POS w/Brass Inserts",1,PCE,
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,1,PCE,
+,> > > > > ,EL-MS0362,[EL-MS0362] 24 AWG 6.0mm Pin Length Single Wire - Insulated Ferrule,2,PCE,
+,> > > > > ,EL-WR0099,[EL-WR0099] Shielded 22AWG UL2464 4 COND,13,cm,
+,> > > > > ,EL-WR0103,[EL-WR0103] 24AWG Stranded – Red,20,cm,
+,> > > > > ,EL-WR0104,[EL-WR0104] 24AWG Stranded – Orange,26,cm,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,10,cm,
+,> > > > > ,PC-CN0001,[PC-CN0001]  Molex-Conn Housing 2POS .100 W/Latch,1,PCE,
+,> > > > > ,PC-CN0032,[PC-CN0032] Term Block Plug 2POS STR 5.08MM,1,PCE,
+,> > > > ,EL-HR0177,"[EL-HR0177] TAZ Workhorse, CB Y End-Stop Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,4,PCE,
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,1,PCE,
+,> > > > > ,EL-MS0329,"[EL-MS0329] TVS Diode – 1500W, 5V Reverse Standoff, 6V Breakdown, 9.4V Clamp, 200A Surge",1,PCE,
+,> > > > > ,EL-MS0416,"[EL-MS0416] Solder Sleeve B155-9002, Clear 0.105"" one step",1,PCE,
+,> > > > > ,EL-WR0120,[EL-WR0120] 24AWG Stranded Wire – Purple,67,cm,
+,> > > > > ,PC-CN0003,[PC-CN0003] Molex - CONN HOUSING 3POS .100 W/LATCH,2,PCE,
+,> > > > ,EL-HR0178,"[EL-HR0178] TAZ Workhorse, Extruder Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0205,[EL-MS0205] Molex-CONN TERM MALE 22-24AWG TIN - Reels of 20K,14,PCE,
+,> > > > > ,EL-MS0479,[EL-MS0479] CONN TERM FEMALE 20-24AWG TIN (Micro-Fit 3.0™) 12K REEL,13,PCE,
+,> > > > > ,EL-WR0099,[EL-WR0099] Shielded 22AWG UL2464 4 COND,102,cm,
+,> > > > > ,EL-WR0103,[EL-WR0103] 24AWG Stranded – Red,204,cm,
+,> > > > > ,EL-WR0104,[EL-WR0104] 24AWG Stranded – Orange,204,cm,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,102,cm,
+,> > > > > ,EL-WR0107,[EL-WR0107] 24AWG Stranded – White,102,cm,
+,> > > > > ,EL-WR0109,[EL-WR0109] 24AWG Stranded – Yellow,102,cm,
+,> > > > > ,EL-WR0111,[EL-WR0111] 24AWG Stranded – Blue,102,cm,
+,> > > > > ,EL-WR0119,[EL-WR0119] 24AWG Stranded Wire – Green,102,cm,
+,> > > > > ,EL-WR0157,"[EL-WR0157] SELF-WRAPPING BRAIDED SLEEVING - 1/4"" - BLACK - 200 FT SPOOL ",960,mm,
+,> > > > > ,HD-TB0075,"[HD-TB0075] Heat-Shrink Tubing, 25 Feet Long, 0.38"" ID Before Shrinking",0.01,"ft, 25",
+,> > > > > ,PC-CN0057,[PC-CN0057] Male 16 pin Molex Connector Housing,1,PCE,
+,> > > > > ,PC-CN0099,[PC-CN0099] CONN RECEPT 20POS 3MM DUAL ROW,1,PCE,
+,> > > > ,EL-HR0179,"[EL-HR0179] TAZ Workhorse, X Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,1,PCE,
+,> > > > > ,EL-MS0142,[EL-MS0142] Conn Recept Faston 22-26AWG .110 - Reel of 3K,2,PCE,
+,> > > > > ,EL-MS0205,[EL-MS0205] Molex-CONN TERM MALE 22-24AWG TIN - Reels of 20K,7,PCE,
+,> > > > > ,EL-MS0247,"[EL-MS0247] Heat Shrink Tubing – 0.19-0.09 – Black, 100'",125,mm,
+,> > > > > ,EL-MS0351,"[EL-MS0351] JST - CONN TERM CRIMP PH 24-30AWG - 8,000 Unit Reel",4,PCE,
+,> > > > > ,EL-MS0355,[EL-MS0355] CONN HOUSING PH 6POS 2MM WHITE,1,PCE,
+,> > > > > ,EL-WR0099,[EL-WR0099] Shielded 22AWG UL2464 4 COND,40,cm,
+,> > > > > ,EL-WR0107,[EL-WR0107] 24AWG Stranded – White,70,cm,
+,> > > > > ,EL-WR0157,"[EL-WR0157] SELF-WRAPPING BRAIDED SLEEVING - 1/4"" - BLACK - 200 FT SPOOL ",270,mm,
+,> > > > > ,HD-TB0075,"[HD-TB0075] Heat-Shrink Tubing, 25 Feet Long, 0.38"" ID Before Shrinking",0.01,"ft, 25",
+,> > > > > ,PC-CN0059,[PC-CN0059] Male 10 pin Molex Connector Housing,1,PCE,
+,> > > > ,EL-HR0180,"[EL-HR0180] TAZ Workhorse, Y Bed Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,5,PCE,
+,> > > > > ,EL-MS0205,[EL-MS0205] Molex-CONN TERM MALE 22-24AWG TIN - Reels of 20K,5,PCE,
+,> > > > > ,EL-MS0247,"[EL-MS0247] Heat Shrink Tubing – 0.19-0.09 – Black, 100'",20,mm,
+,> > > > > ,EL-WR0099,[EL-WR0099] Shielded 22AWG UL2464 4 COND,45,cm,
+,> > > > > ,EL-WR0157,"[EL-WR0157] SELF-WRAPPING BRAIDED SLEEVING - 1/4"" - BLACK - 200 FT SPOOL ",430,mm,
+,> > > > > ,HD-TB0075,"[HD-TB0075] Heat-Shrink Tubing, 25 Feet Long, 0.38"" ID Before Shrinking",0.01,"ft, 25",
+,> > > > > ,PC-CN0001,[PC-CN0001]  Molex-Conn Housing 2POS .100 W/Latch,1,PCE,
+,> > > > > ,PC-CN0003,[PC-CN0003] Molex - CONN HOUSING 3POS .100 W/LATCH,1,PCE,
+,> > > > > ,PC-CN0119,[PC-CN0119] CONN HOUSING MALE 6POS .100,1,PCE,
+,> > > > ,EL-HR0181,"[EL-HR0181] TAZ Workhorse, YZ End Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,2,PCE,
+,> > > > > ,EL-MS0205,[EL-MS0205] Molex-CONN TERM MALE 22-24AWG TIN - Reels of 20K,20,PCE,
+,> > > > > ,EL-MS0247,"[EL-MS0247] Heat Shrink Tubing – 0.19-0.09 – Black, 100'",205,mm,
+,> > > > > ,EL-MS0351,"[EL-MS0351] JST - CONN TERM CRIMP PH 24-30AWG - 8,000 Unit Reel",12,PCE,
+,> > > > > ,EL-MS0355,[EL-MS0355] CONN HOUSING PH 6POS 2MM WHITE,3,PCE,
+,> > > > > ,EL-WR0099,[EL-WR0099] Shielded 22AWG UL2464 4 COND,147,cm,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,100,cm,
+,> > > > > ,EL-WR0157,"[EL-WR0157] SELF-WRAPPING BRAIDED SLEEVING - 1/4"" - BLACK - 200 FT SPOOL ",1350,mm,
+,> > > > > ,HD-TB0075,"[HD-TB0075] Heat-Shrink Tubing, 25 Feet Long, 0.38"" ID Before Shrinking",0.03,"ft, 25",
+,> > > > > ,PC-CN0050,[PC-CN0050] CONN HOUSING MALE 3POS .100,2,PCE,
+,> > > > > ,PC-CN0057,[PC-CN0057] Male 16 pin Molex Connector Housing,1,PCE,
+,> > > > ,EL-HR0183,"[EL-HR0183] TAZ Workhorse, CB YZ Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,27,PCE,
+,> > > > > ,EL-MS0062,[EL-MS0062] MOLEX-CONN HOUSING 4POS .100 W/LATCH,3,PCE,
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,3,PCE,
+,> > > > > ,EL-MS0247,"[EL-MS0247] Heat Shrink Tubing – 0.19-0.09 – Black, 100'",25,mm,
+,> > > > > ,EL-MS0434,"[EL-MS0434] Heat Shrink Tubing – 0.19-0.09 – Red, 250'",25,mm,
+,> > > > > ,EL-WR0099,[EL-WR0099] Shielded 22AWG UL2464 4 COND,75,cm,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,60,cm,
+,> > > > > ,PC-CN0058,[PC-CN0058] Female 16 pin Molex connector housing,1,PCE,
+,> > > > ,EL-HR0184,"[EL-HR0184] TAZ Workhorse, CB Bed Harness",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,8,PCE,
+,> > > > > ,EL-MS0062,[EL-MS0062] MOLEX-CONN HOUSING 4POS .100 W/LATCH,1,PCE,
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,1,PCE,
+,> > > > > ,EL-MS0247,"[EL-MS0247] Heat Shrink Tubing – 0.19-0.09 – Black, 100'",55,mm,
+,> > > > > ,EL-MS0329,"[EL-MS0329] TVS Diode – 1500W, 5V Reverse Standoff, 6V Breakdown, 9.4V Clamp, 200A Surge",1,PCE,
+,> > > > > ,EL-MS0416,"[EL-MS0416] Solder Sleeve B155-9002, Clear 0.105"" one step",1,PCE,
+,> > > > > ,EL-MS0540,[EL-MS0540] Ferrite Core277 OHM Hinged,1,PCE,
+,> > > > > ,EL-WR0103,[EL-WR0103] 24AWG Stranded – Red,38,cm,
+,> > > > > ,EL-WR0109,[EL-WR0109] 24AWG Stranded – Yellow,56,cm,
+,> > > > > ,PC-CN0001,[PC-CN0001]  Molex-Conn Housing 2POS .100 W/Latch,1,PCE,
+,> > > > > ,PC-CN0003,[PC-CN0003] Molex - CONN HOUSING 3POS .100 W/LATCH,1,PCE,
+,> > > > ,EL-HR0185,"[EL-HR0185] TAZ Workhorse, CB Z Endstop Harness, Assembled",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,4,PCE,
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,1,PCE,
+,> > > > > ,EL-MS0329,"[EL-MS0329] TVS Diode – 1500W, 5V Reverse Standoff, 6V Breakdown, 9.4V Clamp, 200A Surge",1,PCE,
+,> > > > > ,EL-MS0416,"[EL-MS0416] Solder Sleeve B155-9002, Clear 0.105"" one step",1,PCE,
+,> > > > > ,EL-WR0107,[EL-WR0107] 24AWG Stranded – White,67,cm,
+,> > > > > ,PC-CN0001,[PC-CN0001]  Molex-Conn Housing 2POS .100 W/Latch,1,PCE,
+,> > > > > ,PC-CN0003,[PC-CN0003] Molex - CONN HOUSING 3POS .100 W/LATCH,1,PCE,
+,> > > > ,EL-MS0144,"[EL-MS0144] Connector Accessories, Sealing Cap, Shell Size 17",1,PCE,T8023 7/16/2019
+,> > > > ,EL-MS0346,[EL-MS0346] MOD PWR ENTRY INLET W/FUSE 6A - IEC C14 Receptacle – AC Filter 6A 250VAC,1,PCE,T8023 7/16/2019
+,> > > > ,EL-MS0347,[EL-MS0347] Fuse Ceramic 6.3A 250VAC 5X20MM,2,PCE,T8023 7/16/2019
+,> > > > ,EL-MS0560,"[EL-MS0560] Conductive Copper Foil Electrical Tape Conductive Adhesive, 3/4"" Wide, 18 Ft ",10,mm,T8023 7/16/2019
+,> > > > ,EL-PS0031,"[EL-PS0031] AC-DC POWER SUPPLY, Enclosed with Fan, 500 W, Single Output, 24 V@21 A ",1,PCE,T8023 7/16/2019
+,> > > > ,EL-SW0023,"[EL-SW0023] SWITCH ROCKER DPST 20A 250V, Illuminated Red",1,PCE,T8023 7/16/2019
+,> > > > ,HD-BT0053,"[HD-BT0053] 18-8 Stainless Steel Flat Head Phillips Machine Screw, Black-Oxide Finish, 4-40 Thread, 1/4"" Length",4,PCE,T8023 7/16/2019
+,> > > > ,HD-BT0054,"[HD-BT0054] Metric Class 12.9 Socket Head Cap Screw, Alloy Steel, M2.5 Thread, 12MM Length, 0.45MM Pitch",4,PCE,T8023 7/16/2019
+,> > > > ,HD-BT0104,"[HD-BT0104] M3 x 8 Bolt, BHCS, SST ",4,PCE,T8023 7/16/2019
+,> > > > ,HD-BT0116,"[HD-BT0116] Black Alloy Steel Flat-Head Socket Cap Screw, Class 10.9, M3 Size, 10mm Length, .50mm Pitch",2,PCE,T8023 7/16/2019
+,> > > > ,HD-BT0137,"[HD-BT0137] M3 x 8 Bolt, BHCS, Black-Oxide",5,PCE,T8023 7/16/2019
+,> > > > ,HD-BT0140,"[HD-BT0140] M3 x 6 Bolt, BHCS Black-Oxide",14,PCE,T8023 7/16/2019
+,> > > > ,HD-BT0155,"[HD-BT0155] Black Alloy Steel Flat-Head Socket Cap Screw, Class 10.9, M4 Size, 6mm Length, .70mm Pitch",5,PCE,T8023 7/16/2019
+,> > > > ,HD-BT0171,"[HD-BT0171] Black Oxide Class 10.9 Steel Button-Head Socket Cap Screw M3 Size, 20 mm Length, .5 mm Pitch, pkg 100 ",4,PCE,T8023 7/16/2019
+,> > > > ,HD-BT0234,"[HD-BT0234] 316 Stainless Steel, Button Head - M3 x 0.5mm Thread, 10mm Long",1,PCE,T8023 7/16/2019
+,> > > > ,HD-MS0058,"[HD-MS0058] Wire Tie, 8"" Black, pk 1000",9,PCE,T8023 7/16/2019
+,> > > > ,HD-MS0336,"[HD-MS0336] Black Adhesive-Back Bumper, Square, Polyurethane, 3/4"" Wide, 1/4"" High",2,PCE,T8023 7/16/2019
+,> > > > ,HD-NT0001,"[HD-NT0001] Metric Zinc-Plated Steel Nylon-Insert Locknut, Class 8, M3 Screw sz, .5MM pitch, 5.5MM W, 4MM H",6,PCE,T8023 7/16/2019
+,> > > > ,HD-WA0013,"[HD-WA0013] Steel Flat Washer, DIN 125 Zinc-Plated Class 4, M2.5 screw sz, 6MM OD, .45MM-.55MM thick",4,PCE,T8023 7/16/2019
+,> > > > ,HD-WA0035,"[HD-WA0035] Metric 18-8 Stainless Steel External Serrated Lock Washer, M3 Screw Size, 6mm OD, 0.4mm min Thick",3,PCE,T8023 7/16/2019
+,> > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",23,PCE,T8023 7/16/2019
+,> > > > ,PC-BD0094,[PC-BD0094] RAMBo Electronics v1.4L Assembled Board Only,1,PCE,T8023 7/16/2019
+,> > > > ,PC-AS0041,[PC-AS0041] Plastic Laser Cut LCD Cover ,1,PCE,T8023 7/16/2019
+,> > > > ,PP-FP0153,"[PP-FP0153] TAZ Interconnect Cover, Quiver",1,PCE,T8023 7/16/2019
+,> > > > ,PP-FP0172,"[PP-FP0172] TAZ Redgum, TAZ6 Electronics Chassis w/ Redgum Graphics",1,PCE,T8023 7/16/2019
+,> > > > ,PP-FP0173,"[PP-FP0173] TAZ Redgum, TAZ6 Electronics Chassis Cover w/ Redgum Graphics",1,PCE,T8023 7/16/2019
+,> > > > ,PP-GP0438,"[PP-GP0438] Interconnect Housing, Black, Workhorse",1,PCE,T8023 7/16/2019
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0185,"Reel, 5lb",
+,> > > > ,EL-FA0061,[EL-FA0061]  CB Case Fan Assembly ,1,PCE,T8023 7/16/2019
+,,,,,,
+,> > > > > ,EL-FA0033,[EL-FA0033] Pelonis FAN 24V 80x80x15mm Low flow,1,PCE,
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,2,PCE,
+,> > > > > ,PC-CN0001,[PC-CN0001]  Molex-Conn Housing 2POS .100 W/Latch,1,PCE,
+,> > > > ,EL-HR0148,"[EL-HR0148] CB Bed Power Harness, Assembled",1,PCE,T8023 7/16/2019
+,> > > > > ,EL-MS0008,"[EL-MS0008] Anderson-Heavy Duty Power Connectors HOUSING ONLY, BLACK-BULK POWERPOLE 15/45",2,PCE,
+,> > > > > ,EL-WR0123,[EL-WR0123] 16AWG Stranded Wire – White,60,cm,
+,> > > > > ,EL-MS0010,[EL-MS0010] Heavy Duty Power Connectors POWERPOLE 15A CONT,2,PCE,
+,> > > > > ,EL-MS0361,[EL-MS0361] 16 AWG 6.0mm Pin Length Power Phase Black Single Wire - Insulated Ferrule ,2,PCE,
+,> > > > > ,PC-CN0032,[PC-CN0032] Term Block Plug 2POS STR 5.08MM,1,PCE,
+,> > > > > ,EL-MS0332,[EL-MS0332] Ferrite Cable Cores 220ohms 100MHz 5mm I.D.,1,PCE,
+,> > > > > ,EL-MS0356,"[EL-MS0356] Heat Shrink Dual Tubing 1/2"" for 5mm ID 11mm OD Ferrite, Black 4FT",55,cm,
+,> > > > ,EL-HR0157,"[EL-HR0157] CB Switch to PSU Harness, Assembled",1,PCE,T8023 7/16/2019
+,,,,,,
+,> > > > > ,EL-MS0143,[EL-MS0143] Conn Fast Receptacle14-16 AWG .250 - REEL of 2200 Units,2,PCE,
+,> > > > > ,EL-MS0247,"[EL-MS0247] Heat Shrink Tubing – 0.19-0.09 – Black, 100'",50,mm,
+,> > > > > ,EL-MS0497,[EL-MS0497] CONN SPADE TERM 16-22AWG #6 RED,2,PCE,
+,> > > > > ,EL-WR0123,[EL-WR0123] 16AWG Stranded Wire – White,43.5,cm,
+,> > > > > ,EL-WR0121,[EL-WR0121] 16AWG Stranded Wire – Black,43.5,cm,
+,> > > > ,EL-HR0168,[EL-HR0168] Plug to switch black and white with ferrite,1,PCE,T8023 7/16/2019
+,,,,,,
+,> > > > > ,EL-MS0143,[EL-MS0143] Conn Fast Receptacle14-16 AWG .250 - REEL of 2200 Units,4,PCE,
+,> > > > > ,EL-MS0332,[EL-MS0332] Ferrite Cable Cores 220ohms 100MHz 5mm I.D.,1,PCE,
+,> > > > > ,EL-MS0356,"[EL-MS0356] Heat Shrink Dual Tubing 1/2"" for 5mm ID 11mm OD Ferrite, Black 4FT",5.5,cm,
+,> > > > > ,EL-WR0121,[EL-WR0121] 16AWG Stranded Wire – Black,45.5,cm,
+,> > > > > ,EL-WR0123,[EL-WR0123] 16AWG Stranded Wire – White,45.5,cm,
+,> > > > ,PP-IS0116,"[PP-IS0116] Y Cable Mount with Inserts, Workhorse",1,PCE,T8023 7/16/2019
+,> > > > > ,HD-MS0158,"[HD-MS0158] Metric Brass Heat-Set Insert For Plastics Tapered, M5-.8 Internal Thread, 6.7mm Length",1,PCE,
+,> > > > > ,PP-GP0440,"[PP-GP0440] Y Cable Mount, Black, Workhorse",1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0049,"Reel, 5lb",
+,> > > > ,HD-MS0249,"[HD-MS0249] UV-Resistant Cable Tie Holder, Adhesive Back/Screw Mount, 4-Way, for.18"" Maximum Tie, Black",6,PCE,T8023 7/16/2019
+,> > > > ,PC-AS0056,[PC-AS0056] LCD LB_GLCD ,1,PCE,T8023 7/16/2019
+,> > > > ,PP-GP0089,[PP-GP0089] LCD_spacer_v0.4,4,PCE,T8023 7/16/2019
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0029,"Reel, 5lb",
+,> > > > ,PP-GP0230,[PP-GP0230] LCD_bezel,1,PCE,T8023 7/16/2019
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0049,"Reel, 5lb",
+,> > > > ,PP-GP0235,[PP-GP0235] SD card bezel v0.8,1,PCE,T8023 7/16/2019
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0004,"Reel, 5lb",
+,> > > > ,PP-GP0435,[PP-GP0435] Flexy LCD Knob,1,PCE,T8023 7/16/2019
+,> > > > > ,RM-TE0002,"[RM-TE0002] Midnight NinjaFlex™ TPE Filament, 3mm, 0.75kg Fenner Drives",0.01,"Reel, 0.75kg",
+,> > > ,AS-PR0166,"[AS-PR0166]  X Carriage Assembly, Workhorse",1,PCE,T8707 7/15/2019
+,> > > > ,AS-PR0158,"[AS-PR0158] X Carriage Sub-assembly, Workhorse",1,PCE,T8707 7/15/2019
+,> > > > > ,HD-BT0185,"[HD-BT0185] Black-Oxide Alloy Steel Socket Head Screw M3 x 0.5 mm Thread, 16 mm Long",1,PCE,
+,> > > > > ,HD-BT0206,"[HD-BT0206] Black-Oxide Alloy Steel Hex Drive Flat Head Screw M3 x 0.5 mm Thread, 25 mm Long",1,PCE,
+,> > > > > ,HD-NT0001,"[HD-NT0001] Metric Zinc-Plated Steel Nylon-Insert Locknut, Class 8, M3 Screw sz, .5MM pitch, 5.5MM W, 4MM H",3,PCE,
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",2,PCE,
+,> > > > > ,AS-PR0154,"[AS-PR0154] X Carriage with Bushings, Workhorse",1,PCE,
+,> > > > > > ,HD-BU0029,"[HD-BU0029] DryLin® R - Solid Precision Polymer Bearing RJMP-01, 12mm",1,PCE,
+,> > > > > > ,PP-GP0392,[PP-GP0392] 12mm Retaining Ring,1,PCE,
+,> > > > > > > ,RM-AB0104,"[RM-AB0104] Chroma Strand ABS Filament, Lulzbot Green 2.85mm, 5 lb reel",0.0001,"Reel, 5lb",
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0181,"Reel, 5lb",
+,> > > > ,AS-PR0159,"[AS-PR0159] X Double Bearing Sub-assembly, Workhorse",1,PCE,T8707 7/15/2019
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",3,PCE,T8424 7/2/2019
+,> > > > > ,HD-BT0206,"[HD-BT0206] Black-Oxide Alloy Steel Hex Drive Flat Head Screw M3 x 0.5 mm Thread, 25 mm Long",2,PCE,T8424 7/2/2019
+,> > > > > ,HD-NT0001,"[HD-NT0001] Metric Zinc-Plated Steel Nylon-Insert Locknut, Class 8, M3 Screw sz, .5MM pitch, 5.5MM W, 4MM H",2,PCE,T8424 7/2/2019
+,> > > > > ,AS-PR0155,"[AS-PR0155] X Double Bearing Holder with Bushings, Workhorse",1,PCE,T8424 7/2/2019
+,> > > > > > ,HD-BU0029,"[HD-BU0029] DryLin® R - Solid Precision Polymer Bearing RJMP-01, 12mm",2,PCE,
+,> > > > > > ,PP-GP0392,[PP-GP0392] 12mm Retaining Ring,2,PCE,
+,> > > > > > > ,RM-AB0104,"[RM-AB0104] Chroma Strand ABS Filament, Lulzbot Green 2.85mm, 5 lb reel",0.0001,"Reel, 5lb",
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0119,"Reel, 5lb",
+,> > > > ,HD-BL0032,[HD-BL0032] 1164-2P-06-2MR-1164-06 / GT 3 Single Sided Neoprene Belt - 1164mm by 6mm ,1,PCE,T8707 7/15/2019
+,> > > > ,HD-BT0043,"[HD-BT0043] Metric Class 12.9 Socket Head Cap Screw, Alloy Steel, M3 Thread, 35MM Length, 0.50MM Pitch",2,PCE,T8707 7/15/2019
+,> > > > ,HD-BT0137,"[HD-BT0137] M3 x 8 Bolt, BHCS, Black-Oxide",5,PCE,T8707 7/15/2019
+,> > > > ,HD-BT0204,"[HD-BT0204] Black-Oxide Alloy Steel Hex Drive Flat Head Screw M3 x 0.5 mm Thread, 22 mm Long",2,PCE,T8707 7/15/2019
+,> > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",7,PCE,T8707 7/15/2019
+,> > > > ,PP-GP0379,[PP-GP0379] X Tensioner Clamp,1,PCE,T8707 7/15/2019
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0003,"Reel, 5lb",
+,> > > > ,PP-GP0465,"[PP-GP0465] Extruder Harness Cable Guide, Black",1,PCE,T8707 7/15/2019
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0023,"Reel, 5lb",
+,> > > > ,PP-IS0117,"[PP-IS0117] X Carriage Cover with Inserts, Workhorse",1,PCE,T8707 7/15/2019
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",4,PCE,T8707 7/15/2019
+,> > > > > ,PP-GP0443,"[PP-GP0443] X Carriage Cover, Black, Workhorse",1,PCE,T8707 7/15/2019
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0181,"Reel, 5lb",
+,> > > > ,PP-IS0102,[PP-IS0102] X-Belt Tensioner with Inserts,1,PCE,T8707 7/15/2019
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",2,PCE,
+,> > > > > ,PP-GP0378,[PP-GP0378] X Belt Tensioner,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0013,"Reel, 5lb",
+,> > > ,AS-PR0165,"[AS-PR0165] TAZ Workhorse, Final Frame Assembly",1,PCE,T8707 7/15/2019
+,> > > > ,AS-PR0011,"[AS-PR0011] TAZ6, Tippy Feed Tube Holder with Bushing Assembly",1,PCE,T8299 6/28/2019
+,> > > > > ,PP-GP0218,[PP-GP0218] Tippy Feed tube holder v0.6,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.002,"Reel, 5lb",
+,> > > > > ,HD-MS0062,"[HD-MS0062] Metric Aluminum Unthreaded Spacer, 8MM OD, 8MM Length, M5 Screw Size",1,PCE,
+,> > > > ,AS-PR0130,[AS-PR0130] X-End Right Assembly,1,PCE,T8299 6/28/2019
+,> > > > > ,AS-PR0127,[AS-PR0127] X-End Idler Assembly,1,PCE,
+,> > > > > > ,HD-BT0012,[HD-BT0012] M3 Set Screw (Grub Screw),2,PCE,
+,> > > > > > ,HD-BT0185,"[HD-BT0185] Black-Oxide Alloy Steel Socket Head Screw M3 x 0.5 mm Thread, 16 mm Long",2,PCE,
+,> > > > > > ,HD-BT0196,"[HD-BT0196] Black-Oxide Alloy Steel Socket Head Screw M5 x 0.8 mm Thread, 25 mm Long",1,PCE,
+,> > > > > > ,HD-MS0411,[HD-MS0411] 625-2RS Premium Two Side Rubber Sealed Bearing ABEC3,2,PCE,
+,> > > > > > ,HD-NT0001,"[HD-NT0001] Metric Zinc-Plated Steel Nylon-Insert Locknut, Class 8, M3 Screw sz, .5MM pitch, 5.5MM W, 4MM H",2,PCE,
+,> > > > > > ,HD-NT0057,[HD-NT0057] 18-8 Stainless Steel Nylon-Insert Locknut M5 x 0.8 mm Thread,1,PCE,
+,> > > > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",2,PCE,
+,> > > > > > ,HD-WA0040,"[HD-WA0040] Black-Oxide 18-8 Stainless Steel Washer, M5 Size, 5.3mm ID, 10.0mm OD",2,PCE,
+,> > > > > > ,AS-PR0126,[AS-PR0126] X-End Idler with Bushings,1,PCE,
+,> > > > > > > ,PP-GP0393,[PP-GP0393] 10mm Retaining Ring,3,PCE,
+,> > > > > > > > ,RM-AB0104,"[RM-AB0104] Chroma Strand ABS Filament, Lulzbot Green 2.85mm, 5 lb reel",0.0001,"Reel, 5lb",
+,> > > > > > > ,HD-BU0030,[HD-BU0030] DryLin® R - Solid Polymer Bearing RJMP-01-10mm ,2,PCE,
+,> > > > > > > ,HD-BU0039,[HD-BU0039] Igus Bushing RJUM-03-10,1,PCE,
+,> > > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0262,"Reel, 5lb",
+,> > > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",6,PCE,
+,> > > > > ,AS-PR0128,[AS-PR0128] Z-Upper Right Assembly,1,PCE,
+,> > > > > > ,PP-IS0093,[PP-IS0093] Z-Upper Right with Inserts,1,PCE,
+,> > > > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",4,PCE,
+,> > > > > > > ,PP-GP0357,[PP-GP0357] Z Upper Right,1,PCE,
+,> > > > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0117,"Reel, 5lb",
+,> > > > > > > ,PP-MP0066,"[PP-MP0066] Metric Brass Heat-Set Tapered Insert, M2-.4 Internal Thread, 2.9MM Length",2,PCE,
+,> > > > > > ,EL-SW0022,[EL-SW0022] SWITCH BASIC SPDT 3A .110QC 125V,1,PCE,
+,> > > > > > ,HD-BT0107,"[HD-BT0107] Metric Class 12.9 Socket Head Cap Screw Alloy Steel, Black, M2 Thread, 10mm Length, 0.4mm Pitch",2,PCE,
+,> > > > > > ,HD-WA0012,"[HD-WA0012] Steel Flat Washer, DIN 125 zinc-plated class 4,M2 screw sz, 5mm OD, .25mm-.35mm thick",2,PCE,
+,> > > > > > ,HD-BT0012,[HD-BT0012] M3 Set Screw (Grub Screw),2,PCE,
+,> > > > > > ,HD-BT0116,"[HD-BT0116] Black Alloy Steel Flat-Head Socket Cap Screw, Class 10.9, M3 Size, 10mm Length, .50mm Pitch",4,PCE,
+,> > > > > > ,PP-FP0156,[PP-FP0156] Z Upper Top Plate,1,PCE,
+,> > > > > ,AS-PR0129,[AS-PR0129] Z Idler Assembly,1,PCE,
+,> > > > > > ,HD-BL0023,[HD-BL0023] 866-2P-06 POWERHOUSE™ BELT,1,PCE,
+,> > > > > > ,PP-MP0225,[PP-MP0225] YZ Idler,1,PCE,
+,> > > > > > ,HD-BT0151,"[HD-BT0151] M5 x 20mm SCHS, Black Oxide",1,PCE,
+,> > > > > > ,HD-MS0411,[HD-MS0411] 625-2RS Premium Two Side Rubber Sealed Bearing ABEC3,2,PCE,
+,> > > > > ,EL-MT0056,"[EL-MT0056] Motor, Moons  4118S-08P-07RO",1,PCE,
+,> > > > > ,HD-BT0073,"[HD-BT0073] Class 10.9 Stl Button Head Socket Cap Screw M5 Size, 10 Mm Length, .8 Mm Pitch ",1,PCE,
+,> > > > > ,HD-BT0148,"[HD-BT0148] Class 10.9 Steel Button-Head Socket Cap Screw, M3 Size, 10 mm Length, .5 mm Pitch",7,PCE,
+,> > > > > ,HD-MS0033,"[HD-MS0033] GT2, 16 Teeth, timing pulley, AL",1,PCE,
+,> > > > > ,HD-MS0411,[HD-MS0411] 625-2RS Premium Two Side Rubber Sealed Bearing ABEC3,1,PCE,
+,> > > > > ,HD-RD0061,"[HD-RD0061] 10 mm Smooth Rod, Stainless Steel, 405mm, EMWR-10-405X",2,PCE,
+,> > > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",7,PCE,
+,> > > > > ,HD-WA0040,"[HD-WA0040] Black-Oxide 18-8 Stainless Steel Washer, M5 Size, 5.3mm ID, 10.0mm OD",1,PCE,
+,> > > > > ,PP-GP0359,[PP-GP0359] Z Lower Right,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0351,"Reel, 5lb",
+,> > > > > ,PP-GP0394,[PP-GP0394] Belt Anchor,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0011,"Reel, 5lb",
+,> > > > ,AS-PR0137,[AS-PR0137] Spool Arm Assembly,1,PCE,T8299 6/28/2019
+,> > > > > ,HD-MS0062,"[HD-MS0062] Metric Aluminum Unthreaded Spacer, 8MM OD, 8MM Length, M5 Screw Size",1,PCE,
+,> > > > > ,PP-GP0406,[PP-GP0406] Dual Spool Arm,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0079,"Reel, 5lb",
+,> > > > ,AS-PR0150,"[AS-PR0150] T-Slot dust cover, cut, 285mm",1,PCE,T8299 6/28/2019
+,> > > > > ,HD-EX0093,[HD-EX0093] T-Slot Dust Cover,285,mm,
+,> > > > ,AS-PR0151,"[AS-PR0151] T-Slot Dust cover, cut, 522mm",1,PCE,T8299 6/28/2019
+,> > > > > ,HD-EX0093,[HD-EX0093] T-Slot Dust Cover,522,mm,
+,> > > > ,AS-PR0164,"[AS-PR0164] X End Left, Workhorse",1,PCE,T8299 6/28/2019
+,> > > > > ,EL-MT0029,"[EL-MT0029] NEMA 17 Stepper Motor, Moons'  -  NOT INCLUDING wire harness",1,PCE,
+,> > > > > ,EL-MT0056,"[EL-MT0056] Motor, Moons  4118S-08P-07RO",1,PCE,
+,> > > > > ,HD-BT0073,"[HD-BT0073] Class 10.9 Stl Button Head Socket Cap Screw M5 Size, 10 Mm Length, .8 Mm Pitch ",1,PCE,
+,> > > > > ,HD-BT0148,"[HD-BT0148] Class 10.9 Steel Button-Head Socket Cap Screw, M3 Size, 10 mm Length, .5 mm Pitch",10,PCE,
+,> > > > > ,HD-MS0033,"[HD-MS0033] GT2, 16 Teeth, timing pulley, AL",2,PCE,
+,> > > > > ,HD-MS0411,[HD-MS0411] 625-2RS Premium Two Side Rubber Sealed Bearing ABEC3,2,PCE,
+,> > > > > ,HD-RD0061,"[HD-RD0061] 10 mm Smooth Rod, Stainless Steel, 405mm, EMWR-10-405X",2,PCE,
+,> > > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",10,PCE,
+,> > > > > ,HD-WA0040,"[HD-WA0040] Black-Oxide 18-8 Stainless Steel Washer, M5 Size, 5.3mm ID, 10.0mm OD",1,PCE,
+,> > > > > ,PP-GP0360,[PP-GP0360] Z Lower Left,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0344,"Reel, 5lb",
+,> > > > > ,PP-GP0394,[PP-GP0394] Belt Anchor,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0011,"Reel, 5lb",
+,> > > > > ,AS-PR0129,[AS-PR0129] Z Idler Assembly,1,PCE,
+,> > > > > > ,HD-BL0023,[HD-BL0023] 866-2P-06 POWERHOUSE™ BELT,1,PCE,
+,> > > > > > ,PP-MP0225,[PP-MP0225] YZ Idler,1,PCE,
+,> > > > > > ,HD-BT0151,"[HD-BT0151] M5 x 20mm SCHS, Black Oxide",1,PCE,
+,> > > > > > ,HD-MS0411,[HD-MS0411] 625-2RS Premium Two Side Rubber Sealed Bearing ABEC3,2,PCE,
+,> > > > > ,AS-PR0160,"[AS-PR0160] X Motor Sub-assembly, Workhorse",1,PCE,
+,> > > > > > ,AS-PR0156,"[AS-PR0156] X Motor Mount with Bushings, Workhorse",1,PCE,
+,> > > > > > > ,HD-BU0030,[HD-BU0030] DryLin® R - Solid Polymer Bearing RJMP-01-10mm ,2,PCE,
+,> > > > > > > ,HD-BU0039,[HD-BU0039] Igus Bushing RJUM-03-10,1,PCE,
+,> > > > > > > ,PP-GP0392,[PP-GP0392] 12mm Retaining Ring,3,PCE,
+,> > > > > > > > ,RM-AB0104,"[RM-AB0104] Chroma Strand ABS Filament, Lulzbot Green 2.85mm, 5 lb reel",0.0001,"Reel, 5lb",
+,> > > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0344,"Reel, 5lb",
+,> > > > > > ,EL-SW0022,[EL-SW0022] SWITCH BASIC SPDT 3A .110QC 125V,1,PCE,
+,> > > > > > ,HD-BT0012,[HD-BT0012] M3 Set Screw (Grub Screw),2,PCE,
+,> > > > > > ,HD-BT0107,"[HD-BT0107] Metric Class 12.9 Socket Head Cap Screw Alloy Steel, Black, M2 Thread, 10mm Length, 0.4mm Pitch",2,PCE,
+,> > > > > > ,HD-BT0185,"[HD-BT0185] Black-Oxide Alloy Steel Socket Head Screw M3 x 0.5 mm Thread, 16 mm Long",2,PCE,
+,> > > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",6,PCE,
+,> > > > > > ,HD-NT0001,"[HD-NT0001] Metric Zinc-Plated Steel Nylon-Insert Locknut, Class 8, M3 Screw sz, .5MM pitch, 5.5MM W, 4MM H",2,PCE,
+,> > > > > > ,HD-WA0012,"[HD-WA0012] Steel Flat Washer, DIN 125 zinc-plated class 4,M2 screw sz, 5mm OD, .25mm-.35mm thick",2,PCE,
+,> > > > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",2,PCE,
+,> > > > > > ,PP-MP0066,"[PP-MP0066] Metric Brass Heat-Set Tapered Insert, M2-.4 Internal Thread, 2.9MM Length",2,PCE,
+,> > > > > ,AS-PR0135,[AS-PR0135] Z-Upper Left Assembly,1,PCE,
+,> > > > > > ,PP-IS0094,[PP-IS0094] Z-Upper Left with Inserts,1,PCE,
+,> > > > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",4,PCE,
+,> > > > > > > ,PP-MP0066,"[PP-MP0066] Metric Brass Heat-Set Tapered Insert, M2-.4 Internal Thread, 2.9MM Length",2,PCE,
+,> > > > > > > ,PP-GP0358,[PP-GP0358] Z Upper Left,1,PCE,
+,> > > > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0119,"Reel, 5lb",
+,> > > > > > ,EL-SW0022,[EL-SW0022] SWITCH BASIC SPDT 3A .110QC 125V,1,PCE,
+,> > > > > > ,HD-BT0012,[HD-BT0012] M3 Set Screw (Grub Screw),2,PCE,
+,> > > > > > ,HD-BT0107,"[HD-BT0107] Metric Class 12.9 Socket Head Cap Screw Alloy Steel, Black, M2 Thread, 10mm Length, 0.4mm Pitch",2,PCE,
+,> > > > > > ,HD-BT0116,"[HD-BT0116] Black Alloy Steel Flat-Head Socket Cap Screw, Class 10.9, M3 Size, 10mm Length, .50mm Pitch",4,PCE,
+,> > > > > > ,HD-WA0012,"[HD-WA0012] Steel Flat Washer, DIN 125 zinc-plated class 4,M2 screw sz, 5mm OD, .25mm-.35mm thick",2,PCE,
+,> > > > > > ,PP-FP0156,[PP-FP0156] Z Upper Top Plate,1,PCE,
+,> > > > ,EL-HR0142,"[EL-HR0142] Z Endstop Harness, Assembled",1,PCE,T8299 6/28/2019
+,> > > > > ,EL-MS0205,[EL-MS0205] Molex-CONN TERM MALE 22-24AWG TIN - Reels of 20K,2,PCE,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,237,cm,
+,> > > > > ,EL-MS0142,[EL-MS0142] Conn Recept Faston 22-26AWG .110 - Reel of 3K,4,PCE,
+,> > > > > ,EL-MS0247,"[EL-MS0247] Heat Shrink Tubing – 0.19-0.09 – Black, 100'",120,mm,
+,> > > > > ,EL-MS0416,"[EL-MS0416] Solder Sleeve B155-9002, Clear 0.105"" one step",2,PCE,
+,> > > > > ,PP-MP0059,[PP-MP0059] CONN HOUSING MALE 2POS .100,1,PCE,
+,> > > > ,HD-BT0049,"[HD-BT0049] Metric Class 12.9 Socket Head Cap Screw, Alloy Steel, M5 thread, 14MM length, 0.80MM pitch",2,PCE,T8299 6/28/2019
+,> > > > ,HD-BT0073,"[HD-BT0073] Class 10.9 Stl Button Head Socket Cap Screw M5 Size, 10 Mm Length, .8 Mm Pitch ",63,PCE,T8299 6/28/2019
+,> > > > ,HD-BT0158,"[HD-BT0158] Class 10.9 Steel Button-Head Socket Cap Screw, M5 Size, 12 mm Length, .8 mm Pitch",4,PCE,T8299 6/28/2019
+,> > > > ,HD-BT0225,"[HD-BT0225] 316 Stainless Steel Button Head Hex Drive Screws, M5 x 0.8mm Thread, 10mm Long",1,PCE,T8299 6/28/2019
+,> > > > ,HD-BT0250,"[HD-BT0250] M5 x 0.8mm Thread, 10mm Long, Flanged Hex Head Screw",8,PCE,T8299 6/28/2019
+,> > > > ,HD-EX0062,"[HD-EX0062] T-Slot Aluminum Frame TPW, Extrusion 20mm x 20mm x 500mm,Tapped M5x0.8 on Both Ends, Black (Ends free of anodize) ",4,PCE,T8299 6/28/2019
+,> > > > ,HD-EX0086,"[HD-EX0086] T-Slot Extrusion, Aluminum, 20mm x 20mm, 20.866"" 530mm",4,PCE,T8299 6/28/2019
+,> > > > ,HD-EX0090,[HD-EX0090] 90 degree Corner Bracket 2 Hole 20mm Slotted Inside Corner Bracket with Dual Support for 20 Series,8,PCE,T8299 6/28/2019
+,> > > > ,HD-EX0092,[HD-EX0092] 2 Hole Inside Corner Bracket For 20 Series,1,PCE,T8299 6/28/2019
+,> > > > ,HD-MS0554,"[HD-MS0554] Workhorse, M5 x 0.8 Knob Thumb Screw Drive, Stainless Steel ",4,PCE,T8299 6/28/2019
+,> > > > ,HD-NT0044,[HD-NT0044] Post assembly M5 T-nut,5,PCE,T8299 6/28/2019
+,> > > > ,HD-NT0053,"[HD-NT0053] T-Slot Slide in T-nuts for Aluminum Frame, M5 ",68,PCE,T8299 6/28/2019
+,> > > > ,HD-WA0007,"[HD-WA0007] M5 Washer, Steel, Zinc Plated",1,PCE,T8299 6/28/2019
+,> > > > ,HD-WA0040,"[HD-WA0040] Black-Oxide 18-8 Stainless Steel Washer, M5 Size, 5.3mm ID, 10.0mm OD",69,PCE,T8299 6/28/2019
+,> > > > ,PP-FP0152,[PP-FP0152] Corner Bracket,8,PCE,T8299 6/28/2019
+,> > > > ,PP-GP0409,[PP-GP0409] Frame Foot,4,PCE,T8299 6/28/2019
+,> > > > > ,RM-TE0002,"[RM-TE0002] Midnight NinjaFlex™ TPE Filament, 3mm, 0.75kg Fenner Drives",0.01,"Reel, 0.75kg",
+,> > > > ,PP-GP0410,[PP-GP0410] Electronic Chassis Mount-Front,1,PCE,T8299 6/28/2019
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0013,"Reel, 5lb",
+,> > > > ,PP-GP0411,[PP-GP0411] Electronic Chassis Mount-Back,2,PCE,T8299 6/28/2019
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0013,"Reel, 5lb",
+,> > > > ,PP-GP0448,"[PP-GP0448] Thumbscrew Leash, LulzBot Green, Flexible",4,PCE,T8299 6/28/2019
+,> > > > > ,RM-TE0027,"[RM-TE0027] LulzBot Green NinjaFlex TPE Filament, 3mm. 0.75kg Fenner Drives",0.01,"Reel, 0.75kg",
+,> > > > ,PP-IS0098,[PP-IS0098] Bed Mount Chassis with Insert,4,PCE,T8299 6/28/2019
+,> > > > > ,PP-GP0432,[PP-GP0432] Bed Mount Chassis,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0031,"Reel, 5lb",
+,> > > > > ,HD-MS0158,"[HD-MS0158] Metric Brass Heat-Set Insert For Plastics Tapered, M5-.8 Internal Thread, 6.7mm Length",1,PCE,
+,> > > ,AS-TH0076,[AS-TH0076] Workhorse Tool Head,1,PCE,T8707 7/15/2019
+,> > > > ,DC-LB0185,[DC-LB0185] Caution Hot Tag 0.5mm HE,1,PCE,
+,> > > > ,EL-MT0040,"[EL-MT0040] NEMA 17 Half Height Stepper Motor, Moons",1,PCE,
+,> > > > ,HD-BT0039,"[HD-BT0039] Metric Class 12.9 Socket Head Cap Screw, Alloy Steel, M3 Thread, 12MM Length, 0.50MM Pitch",4,PCE,
+,> > > > ,HD-BT0042,"[HD-BT0042] Metric Class 12.9 Socket Head Cap Screw, Alloy Steel, M3 Thread, 30MM Length, 0.50MM Pitch",1,PCE,
+,> > > > ,HD-BT0043,"[HD-BT0043] Metric Class 12.9 Socket Head Cap Screw, Alloy Steel, M3 Thread, 35MM Length, 0.50MM Pitch",3,PCE,
+,> > > > ,HD-BT0146,"[HD-BT0146] M3 x 12 BHCS, Black Oxide, Class 10.9 Steel",1,PCE,
+,> > > > ,HD-BT0157,"[HD-BT0157] Black-Oxide Class 12.9 Socket Head Cap Screw, Alloy Steel, M3 Thread, 8mm Length, 0.50mm Pitch",2,PCE,
+,> > > > ,HD-BT0171,"[HD-BT0171] Black Oxide Class 10.9 Steel Button-Head Socket Cap Screw M3 Size, 20 mm Length, .5 mm Pitch, pkg 100 ",1,PCE,
+,> > > > ,HD-BT0197,[HD-BT0197] M4 Thumb Screw for Aero,1,PCE,
+,> > > > ,HD-MS0430,"[HD-MS0430] E3D, Idler Spring for Aero",1,PCE,
+,> > > > ,HD-MS0446,[HD-MS0446] MR95-2RS Radial Ball Bearing Double Sealed Bore Dia. 5mm OD 9mm Width 3mm,2,PCE,
+,> > > > ,HD-NT0011,"[HD-NT0011] M4 Nut, Steel, Zinc Plated",1,PCE,
+,> > > > ,HD-WA0027,"[HD-WA0027] Metric 18-8 Stainless Steel Internal-Tooth Lock Washer, M3 Screw Size, 6MM OD, .4MM Min Thick",1,PCE,
+,> > > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",2,PCE,
+,> > > > ,PP-FP0135,[PP-FP0135] E3D Mirrored Aero Idler Lever,1,PCE,
+,> > > > ,PP-FP0136,[PP-FP0136] E3D Mirrored Aero 2.85mm Filament Guide,1,PCE,
+,> > > > ,PP-FP0154,[PP-FP0154] Titan Extruder Hobb (Hardened Stainless Steel) - Frosted,1,PCE,
+,> > > > ,PP-MP0204,[PP-MP0204] Aero Mirrored Body w/ Threaded Insert,1,PCE,
+,> > > > ,PP-MP0205,[PP-MP0205] E3D Aero Steel Pinion Gear w/ set screw,1,PCE,
+,> > > > ,AS-CB0061,[AS-CB0061] Extruder Motor Harness v2Aero,1,PCE,
+,> > > > > ,EL-MS0351,"[EL-MS0351] JST - CONN TERM CRIMP PH 24-30AWG - 8,000 Unit Reel",4,PCE,
+,> > > > > ,EL-MS0355,[EL-MS0355] CONN HOUSING PH 6POS 2MM WHITE,1,PCE,
+,> > > > > ,EL-MS0480,[EL-MS0480] CONN TERM MALE 20-24AWG TIN (Micro-Fit 3.0™) 12K REEL,4,PCE,
+,> > > > > ,EL-WR0103,[EL-WR0103] 24AWG Stranded – Red,18,cm,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,18,cm,
+,> > > > > ,EL-WR0107,[EL-WR0107] 24AWG Stranded – White,18,cm,
+,> > > > > ,EL-WR0119,[EL-WR0119] 24AWG Stranded Wire – Green,18,cm,
+,> > > > > ,PC-CN0101,[PC-CN0101] CONN PLUG 20POS 3MM VERT DUAL,1,PCE,
+,> > > > ,AS-CB0062,[AS-CB0062] v2Aero Extruder Blower Harness,1,PCE,
+,> > > > > ,EL-FA0047,"[EL-FA0047] RB5015 Series DC Blower, 51 x 51 x 15mm, 24V",1,PCE,
+,> > > > > ,EL-MS0480,[EL-MS0480] CONN TERM MALE 20-24AWG TIN (Micro-Fit 3.0™) 12K REEL,2,PCE,
+,> > > > ,AS-CB0063,[AS-CB0063] v2 Aero Zero Sense Harness,1,PCE,
+,> > > > > ,EL-MS0480,[EL-MS0480] CONN TERM MALE 20-24AWG TIN (Micro-Fit 3.0™) 12K REEL,1,PCE,
+,> > > > > ,EL-MS0141,[EL-MS0141] Term Ring Non Ins 26-22AWG #4  Order Bulk Only,1,PCE,
+,> > > > > ,EL-WR0040,"[EL-WR0040] Wire - Single Conductor 20AWG SOLID PTFE, RED ",24,cm,
+,> > > > ,AS-CB0064,[AS-CB0064] v2Aero Heatsink Fan Harness,1,PCE,
+,> > > > > ,EL-FA0034,[EL-FA0034] Pelonis FAN 5V 40x40x10mm Low flow,1,PCE,
+,> > > > > ,EL-MS0480,[EL-MS0480] CONN TERM MALE 20-24AWG TIN (Micro-Fit 3.0™) 12K REEL,2,PCE,
+,> > > > ,AS-HE0043,[AS-HE0043] Workhorse 0.5 Aero Hotend Assembly,1,PCE,
+,> > > > > ,EL-MS0480,[EL-MS0480] CONN TERM MALE 20-24AWG TIN (Micro-Fit 3.0™) 12K REEL,2,PCE,
+,> > > > > ,AS-HE0042,"[AS-HE0042] E3D, Aero Hot End 3.0mm, 0.5mm Nozzle, Hot-Tightened, Pre-Assembled, Hardened Steel",1,PCE,
+,> > > > ,PP-IS0053,"[PP-IS0053] Extruder Mount With Inserts, Mini 2",1,PCE,
+,> > > > > ,PP-GP0341,"[PP-GP0341] Extruder Mount, Mini 2",1,PCE,
+,> > > > > > ,RM-AB0104,"[RM-AB0104] Chroma Strand ABS Filament, Lulzbot Green 2.85mm, 5 lb reel",0.0137,"Reel, 5lb",
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",3,PCE,
+,> > > > ,PP-IS0057,[PP-IS0057] Universal Blower shroud w/ inserts,1,PCE,
+,> > > > > ,PP-GP0342,[PP-GP0342] Universal Blower Duct,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0121,"Reel, 5lb",
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",1,PCE,
+,> > > > ,PP-IS0083,[PP-IS0083] Idler Clamp Right with Inserts,1,PCE,
+,> > > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",2,PCE,
+,> > > > > ,PP-GP0428,[PP-GP0428] Idler Tube Clamp Right,1,PCE,
+,> > > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0015,"Reel, 5lb",
+,> > > > ,AS-CB0066,[AS-CB0066] v2Aero Thermistor Harness,1,PCE,
+,> > > > > ,EL-MS0059,[EL-MS0059] Molex-CONN TERM FEMALE 22-24AWG TIN Reels of 20K,2,PCE,
+,> > > > > ,EL-MS0480,[EL-MS0480] CONN TERM MALE 20-24AWG TIN (Micro-Fit 3.0™) 12K REEL,2,PCE,
+,> > > > > ,EL-WR0103,[EL-WR0103] 24AWG Stranded – Red,12,cm,
+,> > > > > ,EL-WR0105,[EL-WR0105] 24AWG Stranded – Black,12,cm,
+,> > > > > ,PC-CN0001,[PC-CN0001]  Molex-Conn Housing 2POS .100 W/Latch,1,PCE,
+,> > > ,DC-LB0154,[DC-LB0154] Caution Hot Sticker,1,PCE,T8707 7/15/2019
+,> > > ,HD-BT0073,"[HD-BT0073] Class 10.9 Stl Button Head Socket Cap Screw M5 Size, 10 Mm Length, .8 Mm Pitch ",5,PCE,T8707 7/15/2019
+,> > > ,HD-BT0185,"[HD-BT0185] Black-Oxide Alloy Steel Socket Head Screw M3 x 0.5 mm Thread, 16 mm Long",1,PCE,T8707 7/15/2019
+,> > > ,HD-BT0222,"[HD-BT0222] Blue-Dyed Zinc-Plated Alloy Steel Socket Head Screw M3 x 0.5 mm Thread, 50 mm Long",1,PCE,T8707 7/15/2019
+,> > > ,HD-BT0223,"[HD-BT0223] Blue-Dyed Zinc-Plated Alloy Steel Socket Head Screw M3 x 0.5 mm Thread, 16 mm Long",2,PCE,T8707 7/15/2019
+,> > > ,HD-BT0225,"[HD-BT0225] 316 Stainless Steel Button Head Hex Drive Screws, M5 x 0.8mm Thread, 10mm Long",1,PCE,T8707 7/15/2019
+,> > > ,HD-MS0058,"[HD-MS0058] Wire Tie, 8"" Black, pk 1000",8,PCE,T8707 7/15/2019
+,> > > ,HD-RD0066,"[HD-RD0066] 12mm Smooth Rod, Stainless Steel, 540mm EWMR-12-540x ",2,PCE,T8707 7/15/2019
+,> > > ,HD-WA0007,"[HD-WA0007] M5 Washer, Steel, Zinc Plated",1,PCE,T8707 7/15/2019
+,> > > ,HD-WA0038,"[HD-WA0038] Black-Oxide 18-8 Steel Flat Washer, M3 Screw Size, 3.2mm ID, 7.0mm OD",4,PCE,T8707 7/15/2019
+,> > > ,HD-WA0040,"[HD-WA0040] Black-Oxide 18-8 Stainless Steel Washer, M5 Size, 5.3mm ID, 10.0mm OD",5,PCE,T8707 7/15/2019
+,> > > ,PP-GP0390,[PP-GP0390] Cable Clip,5,PCE,T8707 7/15/2019
+,> > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0011,"Reel, 5lb",
+,> > > ,PP-GP0405,[PP-GP0405] Z Endstop Cable Cover,1,PCE,T8707 7/15/2019
+,> > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.002,"Reel, 5lb",
+,> > > ,PP-GP0447,"[PP-GP0447] Interconnect Strain Relief, Black",1,PCE,T8707 7/15/2019
+,> > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0097,"Reel, 5lb",
+,> > > ,PP-IS0100,[PP-IS0100] X-Belt Clamp with Insert,1,PCE,T8707 7/15/2019
+,> > > > ,HD-MS0030,"[HD-MS0030] Metric Brass Heat-Set Tapered Insert, M3-.5 Internal Thread, 3.8mm Length",1,PCE,
+,> > > > ,PP-GP0380,[PP-GP0380] X Belt Clamp,1,PCE,
+,> > > > > ,RM-AB0105,"[RM-AB0105] Chroma Strand ABS Filament, Black 2.85mm, 5 lb reel ",0.0004,"Reel, 5lb",
+,> > ,DC-LB0189,[DC-LB0189] TAZ WE Certification Sticker,1,PCE,T8826 7/18/2019
+,> > ,EL-MS0385,[EL-MS0385] Verbatim 8GB SDHC Class 10 UHS-I / Bulk ,1,PCE,T8826 7/18/2019
+,> ,DC-LB0063,[DC-LB0063] Modification Warning Insert Modification 2.75 x 8.5 on 100 lb. Astrobright Lift Off Lemon Very Bright,1,PCE,T9006 7/25/2019
+,> ,DC-LB0118,[DC-LB0118] Save your TAZ Packaging Sticker,1,PCE,T9006 7/25/2019
+,> ,DC-LB0192,"[DC-LB0192] TAZ Workhorse, EU Serial Number Sticker, Tamper Evident",1,PCE,T9006 7/25/2019
+,> ,DC-MS0092,"[DC-MS0092] EC Declaration of Conformity, Workhorse",1,PCE,T9006 7/25/2019
+,> ,DC-MS0093,"[DC-MS0093] Safety Warnings Sheet, Workhorse",1,PCE,T9006 7/25/2019
+,> ,DC-MS0094,"[DC-MS0094] Packing List, Workhorse",1,PCE,T9006 7/25/2019
+,> ,EL-CA0031,[EL-CA0031] 6ft 18AWG England Power Cord Cable - H05VV-F NEMA C13 - Black ,1,PCE,T9006 7/25/2019
+,> ,EL-CA0032,[EL-CA0032] 6ft 18AWG European Power Cord Cable - H05VV-F NEMA C13 - Black,1,PCE,T9006 7/25/2019
+,> ,EL-MS0523,[EL-MS0523] Power Connector Heavy Duty Retention Clip PP15/45,1,PCE,T9006 7/25/2019
+,> ,SH-BX0498,[SH-BX0498] TAZ - Product Box,1,PCE,T9006 7/25/2019
+,> ,SH-PA0060,"[SH-PA0060] TazPro, Top Endcap Foam, 1.7 lb. Density Polyethylene Foam, Black",1,PCE,T9006 7/25/2019
+,> ,SH-PA0061,"[SH-PA0061] TazPro, Bottom Endcap Foam, 1.7# Density Polyethylene Foam, Black",1,PCE,T9006 7/25/2019
+,> ,SH-PA0063,"[SH-PA0063] TazPro, Corrugated Sleeve",1,PCE,T9006 7/25/2019
+,> ,SH-PA0067,"[SH-PA0067] Workhorse, Print Head Stabilizer Foam, 1.7# Density Polyethylene, Top, Black",1,PCE,T9006 7/25/2019
+,> ,SH-PA0068,"[SH-PA0068] Workhorse, Print Head Stabilizer Foam, 1.7# Density Polyethylene, Bottom, Black",1,PCE,T9006 7/25/2019
+,> ,SH-PG0019,"[SH-PG0019] Avery® White Shipping Labels for Laser Printers with TrueBlock Technology, 2 Inches x 4 Inches (5963)",1,PCE,T9006 7/25/2019
+,> ,SH-PG0031,"[SH-PG0031] 2 x 3"" No Print Reclosable Static Shielding Bags (ESD)",1,PCE,T9006 7/25/2019
+,> ,SH-PG0069,"[SH-PG0069] 3M 8898 Economy Strapping Tape - 1⁄2"" x 60 yards",700,mm,T9006 7/25/2019
+,> ,SH-PG0131,"[SH-PG0131] #260 White Reinforced Gummed Tape with LulzBot Printed Logo, 10 Pack",3660,mm,T9006 7/25/2019

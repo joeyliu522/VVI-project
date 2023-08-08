@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="106.5mm"
+   height="191.5mm"
+   viewBox="0 0 106.5 191.5"
+   version="1.1"
+   id="svg4932"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="LargeSprocketSection.svg">
+  <defs
+     id="defs4926">
+    <clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path20"
+         d="m 0,10.0195 h 2950 v 3041.99 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath68"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path70"
+         d="M 0,3052.01 H 2950 V 10.0195 H 0 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1760"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1758"
+         d="m 45.746,1068.789 h 76.039 V 966.742 H 45.746 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1770"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1768"
+         d="m 45,966 h 72 v 103 H 45 Z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1710"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1708"
+         d="m 216.895,335.496 h 25.074 v -21.008 h -25.074 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath1720"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1718"
+         d="m 216,314 h 26 v 22 h -26 z" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="45.982092"
+     inkscape:cy="200.91956"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="971"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4929">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-105.5)">
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 85.74945,106.25073 -7.827428,27.39678 c -6.056633,1.63071 -11.866592,4.06806 -17.273881,7.24659 l -25.002091,-13.8896 -7.070881,7.07089 -7.071419,7.0714 13.879281,24.98298 c -3.166721,5.41279 -5.59171,11.22655 -7.209901,17.28525 L 0.75,191.25019 v 9.99991 10.00041 l 27.446889,7.8419 c 1.59285,6.07782 3.996722,11.91351 7.146851,17.34984 l -13.83999,24.91167 7.07089,7.07088 7.07141,7.07141 24.9437,-13.85756 c 5.429091,3.19118 11.264,5.63512 17.346742,7.26571 L 85.74945,296.25 h 9.999901 10.000429 v -56.29996 c -3.26509,0.85369 -6.625079,1.29076 -9.9999,1.30073 -22.09151,7e-5 -40.00023,-17.90865 -40.00015,-40.00017 -8e-5,-22.09148 17.908661,-40.0002 40.00015,-40.00012 3.375721,0.0167 6.73571,0.46069 9.9999,1.32136 v -56.32111 h -9.9999 z"
+       id="path9030" />
+  </g>
+</svg>
