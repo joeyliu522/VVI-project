@@ -1,0 +1,5 @@
+10/23:
+
+-Reorganized the UI so we can see serial monitor and other buttons are now visible
+-Fixed update values bug
+-Added total session time to csv for each entry
